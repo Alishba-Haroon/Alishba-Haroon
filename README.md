@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alishbaharoon&label=Profile%20views&color=0e75b6&style=flat" alt="alishbaharoon" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alishbaharoon" alt="alishbaharoon" /></a> </p>
-
 - 🔭 I’m currently working on [Spam Email Classifier](https://github.com/Alishba-Haroon/Projects./tree/main/Email_Spam_filtering)
 
 - 🌱 I’m currently learning **Currently learning frameworks like TensorFlow, PyTorch, and Flask, while taking courses in Machine Learning, Deep Learning, and Data Science.**
