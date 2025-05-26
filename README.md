@@ -1,40 +1,27 @@
-# Hello, I'm Alishba 👋
+<h1 align="center">Hi 👋, I'm Alishba Haroon</h1>
+<h3 align="center">I am a Bachelor of Science in Artificial Intelligence (BSAI) student passionate about leveraging AI and machine learning to solve real-world problems and drive innovation.</h3>
 
-I am a Bachelor of Science in Artificial Intelligence (BSAI) student passionate about leveraging AI and machine learning to solve real-world problems and drive innovation.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alishbaharoon&label=Profile%20views&color=0e75b6&style=flat" alt="alishbaharoon" /> </p>
 
----
+- 🔭 I’m currently working on [Spam Email Classifier](https://github.com/Alishba-Haroon/Projects./tree/main/Email_Spam_filtering)
 
-## 🎓 About Me
+- 🌱 I’m currently learning **Currently learning frameworks like TensorFlow, PyTorch, and Flask, while taking courses in Machine Learning, Deep Learning, and Data Science.**
 
-- Currently pursuing **BSAI** with focus on Machine Learning, Deep Learning, and Data Science.
-- Skilled in Python programming, data analysis, and AI frameworks.
-- Interested in AI research, computer vision, natural language processing, and robotics.
-- Continuously learning new technologies and best practices in AI.
-- Seeking internship and collaboration opportunities in AI and software development.
+- 👯 I’m looking to collaborate on [ER_Diagram Maker](https://github.com/Alishba-Haroon/Projects./tree/main/ER_Diagram%20Maker)
 
----
+- 🤝 I’m looking for help with [Heart-Disease-Prediction-Model System](https://github.com/Alishba-Haroon/Projects./tree/main/Heart-Disease-Prediction-Model%20System)
 
-## 🛠️ Technical Skills
+- 👨‍💻 All of my projects are available at [https://github.com/Alishba-Haroon/Projects./tree/main](https://github.com/Alishba-Haroon/Projects./tree/main)
 
-| Programming Languages | Frameworks & Libraries     | Tools & Platforms       |
-|-----------------------|---------------------------|------------------------|
-| Python                | TensorFlow, PyTorch       | Jupyter Notebook       |
-| Java                  | scikit-learn, OpenCV      | Git, GitHub            |
-| SQL                   | Flask                     | VS Code, PyCharm       |
+- 💬 Ask me about **Feel free to ask me about React, Vue.js, GSAP, and other modern web development frameworks and tools**
 
----
+- ⚡ Fun fact **I enjoy exploring how AI can blend with creative web technologies to build intelligent and interactive user experiences.**
 
-## 📚 Projects & Experience
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/alishbaharoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alishbaharoon" height="30" width="40" /></a>
+<a href="https://kaggle.com/parkemma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="parkemma" height="30" width="40" /></a>
+</p>
 
-- **Medical Insurance Cost Prediction**  
-  Developed a Random Forest Regression model to predict medical insurance charges using real-world datasets, optimizing model accuracy through feature engineering and hyperparameter tuning.
-
-- **Spam Email Classifier**  
-  Built a machine learning model to classify emails as spam or ham using Natural Language Processing and various classifiers such as Naive Bayes and SVM.
-
-- **Brain Tumor Segmentation with YOLOv8 and SAM**  
-  Worked on advanced computer vision techniques for tumor detection and segmentation using state-of-the-art models.
-
----
-
-Thank you for visiting my profile. I look forward to connecting and collaborating on AI and machine learning projects!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
