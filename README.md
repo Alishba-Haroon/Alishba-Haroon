@@ -35,9 +35,6 @@ I am a Bachelor of Science in Artificial Intelligence (BSAI) student passionate 
 - **Brain Tumor Segmentation with YOLOv8 and SAM**  
   Worked on advanced computer vision techniques for tumor detection and segmentation using state-of-the-art models.
 
-- Internship at Vosyn  
-  Gained hands-on experience in AI model development and data analytics during a paid internship.
-
 ---
 
 Thank you for visiting my profile. I look forward to connecting and collaborating on AI and machine learning projects!
