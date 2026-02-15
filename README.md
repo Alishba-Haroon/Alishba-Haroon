@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alishba Haroon</h1>
-<h3 align="center">I am a Bachelor of Science in Artificial Intelligence (BSAI) student passionate about leveraging AI and machine learning to solve real-world problems and drive innovation.</h3>
+<h3 align="center">AI Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alishbaharoon&label=Profile%20views&color=0e75b6&style=flat" alt="alishbaharoon" /> </p>
 
-- 🔭 I’m currently working on [Spam Email Classifier](https://github.com/Alishba-Haroon/Projects./tree/main/Email_Spam_filtering)
+- 🔭 I’m currently working on [Reume_Analyzer](http://github.com/Alishba-Haroon/Resume-Analyzer)
 
 - 🌱 I’m currently learning **Currently learning frameworks like TensorFlow, PyTorch, and Flask, while taking courses in Machine Learning, Deep Learning, and Data Science.**
 
