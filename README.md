@@ -8,8 +8,8 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **Resume Analyzer (AI-powered NLP project)**
-- 🌱 Learning **TensorFlow, PyTorch, Deep Learning, Data Science**
+- 🔭 Currently working on **Blockchain (AI-powered project)**
+- 🌱 Learning **TensorFlow, PyTorch, Deep Learning, Data Science, Machine Learning, Database**
 - 🧠 Focused on **AI systems, ML models & real-world applications**
 - 🤝 Open to collaboration on **AI/ML projects**
 - ⚡ Interested in **AI + Web integration**
@@ -22,7 +22,7 @@
 - ❤️ [Heart Disease Prediction](https://github.com/Alishba-Haroon/Projects./tree/main/Heart-Disease-Prediction-Model%20System)
 
 📌 All Projects:  
-👉 https://github.com/Alishba-Haroon/Projects./tree/main  
+👉 https://github.com/Alishba-Haroon?tab=repositories
 
 ---
 
