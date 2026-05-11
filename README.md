@@ -17,8 +17,8 @@
 ---
 
 ### 🧩 Projects
-- 🔍 [Resume Analyzer](https://github.com/Alishba-Haroon/Resume-Analyzer)
-- 📊 [ER Diagram Maker](https://github.com/Alishba-Haroon/Projects./tree/main/ER_Diagram%20Maker)
+- 🔍 [Stock Sentiment Analysis using News Headlines](https://github.com/Alishba-Haroon/Stock_Sentiment_using_News_Headlines-)
+- 📊 [Auto Subtitle Generator](https://github.com/Alishba-Haroon/Auto-Subtitle-Generator)
 - ❤️ [Heart Disease Prediction](https://github.com/Alishba-Haroon/Projects./tree/main/Heart-Disease-Prediction-Model%20System)
 
 📌 All Projects:  
