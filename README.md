@@ -29,8 +29,9 @@
 - 🤖 Healthcare Blockchain System (AI + Blockchain Integration)
 - 🧪 Reinforcement Learning Experiments
 
-📌 All Projects:  
-## 👉 [Projects](https://github.com/Alishba-Haroon/Projects.)
+## 📌 All Projects
+
+- 🔍 [Project Link](https://github.com/Alishba-Haroon/Projects.)
 ---
 
 ## 🛠️ Tech Stack
