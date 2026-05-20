@@ -96,7 +96,7 @@
 
 <p>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="..." height="30"/>
+    <img src="https://www.vecteezy.com/png/18930480-linkedin-logo-png-linkedin-icon-transparent-png" height="30"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/YOUR_USERNAME">
