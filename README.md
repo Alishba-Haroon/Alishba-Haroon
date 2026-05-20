@@ -87,20 +87,19 @@
 ## 📊 GitHub Stats
 
 
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Alishba-Haroon&theme=tokyonight" />
 </p>
----
+
 
 ## 📫 Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" style="margin-right:10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
   </a>
 
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/https://github.com/Alishba-Haroon">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30"/>
   </a>
 </p>
