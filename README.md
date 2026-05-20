@@ -110,6 +110,3 @@
 
 ---
 
-## 💡 Fun Fact
-
-I enjoy building intelligent systems where **AI meets real-world applications** 🚀
