@@ -95,7 +95,7 @@
 ## 📫 Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/alishba-haroon" style="margin-right:10px;">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/alishba-haroon/" style="margin-right:10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
   </a>
 
