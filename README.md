@@ -95,11 +95,11 @@
 ## 📫 Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" style="margin-right:30px;">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" style="margin-right:12px; display:inline-block;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
   </a>
 
-  <a href="https://github.com/https://github.com/Alishba-Haroon">
+  <a href="https://github.com/YOUR_USERNAME" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30"/>
   </a>
 </p>
