@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer | Machine Learning Developer | Deep Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;Deep+Learning+Enthusiast;Python+%7C+Flask+%7C+Docker;GitHub+Actions+%7C+CI%2FCD;Building+Industry-Level+AI+Projects;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&width=700&lines=AI+Engineer;Backend Developer;Deep+Learning+Enthusiast;Python+%7C+Flask+%7C+Docker;GitHub+Actions+%7C+CI%2FCD;Building+Industry-Level+AI+Projects;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
