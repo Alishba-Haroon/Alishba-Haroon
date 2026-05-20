@@ -30,7 +30,7 @@
 - 🧪 Reinforcement Learning Experiments
 
 📌 All Projects:  
-👉 [Project Repository](https://github.com/Alishba-Haroon/Projects.)
+👉 [Projects](https://github.com/Alishba-Haroon/Projects)
 ---
 
 ## 🛠️ Tech Stack
