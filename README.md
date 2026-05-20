@@ -23,11 +23,11 @@
 
 ## 🧩 Projects
 
-- 🔍 Multilingual Subtitle Generator
-- 📊 StockBotArena Pro
-- 🚚 FleetMind Multi-Agent Delivery Optimization System
-- 🤖 AI Ethics & Bias Evaluation System
-- 🧠 Reinforcement Learning Experiments
+- 🔍 Multilingual Subtitle Generator (NLP + Speech Processing)
+- 📊 Stock Sentiment Analysis using News Headlines
+- 🧠 Resume Analyzer using NLP
+- 🤖 Healthcare Blockchain System (AI + Blockchain Integration)
+- 🧪 Reinforcement Learning Experiments
 
 📌 All Projects:  
 👉 https://github.com/YOUR_USERNAME?tab=repositories
