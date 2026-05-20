@@ -31,7 +31,7 @@
 
 ## 📌 All Projects
 
-- 🔍 [Project Link](https://github.com/Alishba-Haroon/Projects.)
+- 🔍 [Click Here](https://github.com/Alishba-Haroon/Projects.)
 ---
 
 ## 🛠️ Tech Stack
