@@ -36,16 +36,22 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+## 🛠️ Tech Stack & Skills
+
+### 💻 Programming Languages
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
 </p>
+
+**Python • SQL • HTML • CSS • TypeScript • Next.js • Nest.js**
 
 ---
 
-### 🤖 AI / ML
+### 🤖 AI / Machine Learning
 <p>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
@@ -54,27 +60,78 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
 </p>
 
+**Skills**
+- Data Preprocessing
+- Feature Engineering
+- Model Development & Evaluation
+- Natural Language Processing (NLP)
+- Deep Learning
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- API Integration
+
 ---
 
-### 🌐 Web Development
+### 📚 Libraries & Frameworks
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
-  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" width="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
 </p>
 
+**Libraries & Frameworks**
+- NumPy
+- Pandas
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- Hugging Face Transformers
+- OpenAI API
+- Google Gemini API
+- Whisper
+- Flask
+- FastAPI
+- React
+
 ---
 
-### ⚙️ DevOps & Tools
+### ⚙️ Tools & Platforms
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
   <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
 </p>
 
+**Tools**
+- Git & GitHub
+- Docker
+- GitHub Actions
+- Google Cloud Platform (GCP)
+- Jupyter Notebook
+- Google Colab
+- VS Code
+
 ---
+
+### ☁️ Cloud & Deployment
+
+- Google Cloud Platform (GCP)
+- Docker
+- Model Deployment
+- Workflow Automation
+- Version Control
+
+---
+
+### 📊 Data Analytics
+
+- Power BI
+- Data Visualization
+- Business Insights & Storytelling
 
 ### 🗄️ Databases
 <p>
