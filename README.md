@@ -69,7 +69,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" title="Hugging Face"/>
-  <img src="https://cdn.simpleicons.org/openai" width="40" title="OpenAI"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="40" />
   <img src="https://cdn.simpleicons.org/googlegemini" width="40" title="Google Gemini"/>
 </p>
 
@@ -91,7 +91,7 @@
 
 ### 📊 Data Analytics
 <p align="left">
-  <img src="https://cdn.simpleicons.org/powerbi" width="40" title="Power BI"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" width="40" />
 </p>
 
 
