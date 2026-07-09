@@ -34,104 +34,66 @@
 - 🔍 [Click Here](https://github.com/Alishba-Haroon/Projects.)
 ---
 
+
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack & Skills
-
 ### 💻 Programming Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" title="SQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
 </p>
 
-**Python • SQL • HTML • CSS • TypeScript • Next.js • Nest.js**
+---
+
+### 🚀 Frameworks & Libraries
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40" title="NestJS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" title="Flask"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40" title="Streamlit"/>
+</p>
 
 ---
 
 ### 🤖 AI / Machine Learning
-<p>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" title="TensorFlow"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" title="PyTorch"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" title="Scikit-learn"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" title="Hugging Face"/>
+  <img src="https://cdn.simpleicons.org/openai" width="40" title="OpenAI"/>
+  <img src="https://cdn.simpleicons.org/googlegemini" width="40" title="Google Gemini"/>
 </p>
-
-**Skills**
-- Data Preprocessing
-- Feature Engineering
-- Model Development & Evaluation
-- Natural Language Processing (NLP)
-- Deep Learning
-- Generative AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- API Integration
-
----
-
-### 📚 Libraries & Frameworks
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-</p>
-
-**Libraries & Frameworks**
-- NumPy
-- Pandas
-- Scikit-learn
-- TensorFlow
-- PyTorch
-- Hugging Face Transformers
-- OpenAI API
-- Google Gemini API
-- Whisper
-- Flask
-- FastAPI
-- React
 
 ---
 
 ### ⚙️ Tools & Platforms
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" title="GitHub"/>
+  <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" width="40" title="GitHub Actions"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" title="Google Cloud"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter Notebook"/>
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40" title="Google Colab"/>
 </p>
-
-**Tools**
-- Git & GitHub
-- Docker
-- GitHub Actions
-- Google Cloud Platform (GCP)
-- Jupyter Notebook
-- Google Colab
-- VS Code
-
----
-
-### ☁️ Cloud & Deployment
-
-- Google Cloud Platform (GCP)
-- Docker
-- Model Deployment
-- Workflow Automation
-- Version Control
 
 ---
 
 ### 📊 Data Analytics
+<p align="left">
+  <img src="https://cdn.simpleicons.org/powerbi" width="40" title="Power BI"/>
+</p>
 
-- Power BI
-- Data Visualization
-- Business Insights & Storytelling
 
 ### 🗄️ Databases
 <p>
