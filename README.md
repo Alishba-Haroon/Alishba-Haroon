@@ -69,7 +69,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" title="Hugging Face"/>
-  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
   <img src="https://cdn.simpleicons.org/googlegemini" width="40" title="Google Gemini"/>
 </p>
 
@@ -89,12 +88,6 @@
 
 ---
 
-### 📊 Data Analytics
-<p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" width="40" />
-</p>
-
-
 ### 🗄️ Databases
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
@@ -105,9 +98,8 @@
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Alishba-Haroon&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Alishba-Haroon&theme=tokyonight&hide_border=true" />
 </p>
 
 
